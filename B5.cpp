@@ -1,6 +1,7 @@
 /*
-Experiment 5 : C++ Program To read details of a book consists of chapters, chapters consist of sections and sections      
-               consist of subsections. Construct a tree and print the nodes. Find the time and space requirements of your method.
+A book consists of chapters, chapters consist of sections and sections consist of
+subsections. Construct a tree and print the nodes. Find the time and space requirements
+of your method. 
 */
 
 #include <iostream>
